@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav ul li:first-child{
+  padding-left: none;
+}
+
+
+.my-li{
+  display:inline-block;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+.ul-left{
+  margin-left: -35px;
+}
+
+.show{
+  font-weight: 700;
+  font-size: 20px;
+}
