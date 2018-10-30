@@ -6,7 +6,7 @@ layout: default
 ---
 # About me
 
-Hello world.  My name is Dylan.  
+Hello world!  My name is Dylan.  
 
 I grew up mostly in Toronto, where I attended U of T studying Anthropology.  My most formative 2 years, however, were spent in Chicago, IL,
 where I completed my Masters Degree in the Social Sciences, taught myself a wide range of tech skills, and worked for one year for
