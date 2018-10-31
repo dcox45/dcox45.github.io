@@ -6,6 +6,8 @@ layout: default
 ---
 # About me
 
+<img alt="dylan profile photo" align="left" src="./assets/me.jpg" width="240" height="240">
+
 Hello world!  My name is Dylan.  
 
 I grew up mostly in Toronto, where I attended U of T studying Anthropology.  My most formative 2 years, however, were spent in Chicago, IL,
