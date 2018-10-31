@@ -6,7 +6,7 @@ layout: default
 ---
 # About me
 
-<img alt="dylan profile photo" align="left" src="assets/me.jpg" width="240" height="240">
+<img alt="Dylan's profile photo" align="left" src="./assets/me.jpg" width="240" height="240">
 
 Hello world!  My name is Dylan.  
 

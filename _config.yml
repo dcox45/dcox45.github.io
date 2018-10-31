@@ -17,8 +17,8 @@ title: Dylan Cox
 email: dylanwjc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Toronto-based Researcher, Writer, and Tech Educator
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "." # the subpath of your site, e.g. /blog
+url: "http://dcox45.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DylanCox19
 github_username:  dcox45
 
@@ -27,6 +27,11 @@ markdown: kramdown
 theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+  
+assets:
+  sources:
+    - assets/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -39,3 +44,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
