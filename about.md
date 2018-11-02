@@ -18,10 +18,10 @@ Since returning to Toronto, I have continued to hone my technical sophistication
 goal is to reach the next level of my career by combining my research & writing skills with my familiarity with digital technology.  With
 that in mind, I have been seeking positions in Software Development, User Experience Research, Copywriting, and much more.  If you think I would be a good fit at your organization, please do not hesitate to reach out.  
 
-I recently started a blog called [This Wired World]("https://thiswiredworld.wordpress.com/"), where I write on the everyday intersections
+I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on the everyday intersections
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
 
- [<--Back to Home]("https://dcox45.github.io/")
+ [<--Back to Home](https://dcox45.github.io)
 
 
 
