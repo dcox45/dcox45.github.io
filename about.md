@@ -23,7 +23,7 @@ that in mind, I have been seeking positions in Software Development, User Experi
 I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on the everyday intersections
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
 
- [<--Back to Home](https://dcox45.github.io)
+ [<--Back to Home](/)
 
 
 
