@@ -7,6 +7,7 @@
 //   background-color: blue;
 // }
 
+
 // .nav ul li:last-child{
 //   padding-left: none;
 // }
@@ -19,10 +20,13 @@
 //   text-decoration: none;
 // }
 
-// ul {
-//   padding-left: -30px;
-//   background-color: yellow;
-// }
+ul {
+  padding: 0;
+}
+
+nav {
+  padding: 0;
+}
 
 .my-li{
   display:inline-block;
@@ -51,7 +55,7 @@
 }
 
 .ul-shift{
-  margin-left: -10px;
+  // margin-left: -10px;
   width:100%;
 }
 
