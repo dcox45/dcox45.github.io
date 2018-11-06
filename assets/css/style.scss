@@ -3,9 +3,17 @@
 
 @import "{{ site.theme }}";
 
+// html{
+//   background-color: blue;
+// }
+
 .nav ul li:first-child{
   padding-left: none;
 }
+
+// nav ul li a {
+//   text-decoration: none;
+// }
 
 
 .my-li{
@@ -57,3 +65,40 @@ a:hover {
 }
 
 
+
+// RESPONSIVENESS 
+
+body {
+  // background-color: rgb(0,240,240);
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 256px;
+  // padding-left: 24px;
+  // padding-right: 24px;
+}
+
+img.small {
+  float: left;
+  height: 200px;
+  margin-bottom: 24px;
+  margin-right: 24px;
+}
+
+img.medium {
+  max-width: 360px;
+  width: 50%;
+}
+
+img.large {
+  width: 100%;
+}
+
+
+// .back {
+//   float: right;
+// }
+
+iframe {
+  width: 100%;
+
+}

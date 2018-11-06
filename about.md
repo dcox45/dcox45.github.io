@@ -3,11 +3,10 @@ title: About
 permalink: /about/
 layout: default
 ---
-# About me
 
+# About Me  
 
-
-<img style = "padding-right: 16px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="240" height="240">
+<img style = "padding-right: 16px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="200" height="200">
 
 **Hello world!  My name is Dylan.**
 
@@ -22,7 +21,7 @@ that in mind, I have been seeking positions in Software Development, User Experi
 I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on the everyday intersections
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
 
- [<--Back to Home](/)
+ <button> <strong>[Back to Home](/)</strong>  </button>
 
 
 
