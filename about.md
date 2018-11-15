@@ -5,7 +5,7 @@ layout: default
 ---
 # About Me  
 
-<img style = "padding-right: 16px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="35%">
+<img style = "padding-right: 16px; padding-bottom: 3px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="35%">
 
 **Hello world!  My name is Dylan.**
 
