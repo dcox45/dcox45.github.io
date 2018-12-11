@@ -20,9 +20,9 @@
 //   text-decoration: none;
 // }
 
-// p{
-//   font-size: 20px;
-// }
+.p-larger-font{
+  font-size: 20px;
+}
 
 ul {
   padding: 0;
@@ -87,6 +87,12 @@ nav {
 
 }
 
+.container-port-head{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+
+}
+
 // a:link {
 //     color: red;
     
@@ -107,6 +113,7 @@ body {
   min-width: 256px;
   // padding-left: 24px;
   // padding-right: 24px;
+  // padding-bottom:;
 }
 
 img.small {
@@ -127,7 +134,7 @@ img.large {
 
 
 .my-button {
-  border-radius: 5px;
+  border-radius: 7px;
   font-weight: 700;
   font-size: 16px;
   text-align: center;
