@@ -25,8 +25,9 @@ I recently started a blog called [This Wired World](https://thiswiredworld.wordp
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
 
 
-<button class = "my-button"> <strong><a href="/">Back to Home</a></strong>  </button>
-
+<div class="return">
+        					<small>&#8606; <a rel="home" href="/">Back to Home</a></small>
+</div>
 
 
 
