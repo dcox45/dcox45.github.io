@@ -7,10 +7,12 @@ layout: default
 
 <img style = "padding-right: 16px; padding-bottom: 3px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="35%">
 
+
 **Hello world!  My name is Dylan.**
+   
 
 I grew up mostly in Toronto, where I attended U of T studying Anthropology.  My most formative 2 years, however, were spent in Chicago, IL,
-where I completed my Masters Degree in the Social Sciences, taught myself a wide range of tech skills, and worked for one year for
+where I completed my Masters Degree in the Social Sciences, taught myself a wide range of tech skills, and worked for
 several companies in the city.  
 
 Since returning to Toronto, I have continued to hone my technical sophistication while working in the tech education industry 
@@ -21,7 +23,8 @@ familiarity with digital technology.  With that in mind, I am currently seeking 
 User Experience Research, Copywriting, and much more.  If you think I would be a good fit at your
 organization, please do not hesitate to reach out.  
 
-I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on the everyday intersections
+I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on
+the everyday intersections
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
 
 
