@@ -3,6 +3,7 @@ title: About
 permalink: /about/
 layout: default
 ---
+
 # About Me  
 
 <img style = "padding-right: 16px; padding-bottom: 3px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="35%">
@@ -19,7 +20,7 @@ Since returning to Toronto, I have continued to hone my technical sophistication
 and developing my own projects.  
 
 My goal is to reach the next level of my career by combining my research & writing skills with my 
-familiarity with digital technology.  With that in mind, I am currently seeking opportunities in Software Development,
+familiarity with digital technology.  With that in mind, I am currently seeking opportunities in Consulting, Software Development,
 User Experience Research, Copywriting, and much more.  If you think I would be a good fit at your
 organization, please do not hesitate to reach out.  
 

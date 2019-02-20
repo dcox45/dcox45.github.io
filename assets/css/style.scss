@@ -20,6 +20,10 @@
 //   text-decoration: none;
 // }
 
+.default-heading, .menu-container {
+    display:inline-block;
+}
+
 .p-larger-font{
   font-size: 20px;
 }
@@ -84,6 +88,7 @@ nav {
   background-color: rgb(230, 255, 240);
   padding-right: 10px;
   padding-left: 10px;
+  box-shadow: 10px 10px 5px #888888;
 
 }
 
