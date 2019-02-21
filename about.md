@@ -12,16 +12,17 @@ layout: default
 **Hello world!  My name is Dylan.**
    
 
-I grew up mostly in Toronto, where I attended U of T studying Anthropology.  My most formative 2 years, however, were spent in Chicago, IL,
-where I completed my Masters Degree in the Social Sciences, taught myself a wide range of tech skills, and worked for
-several companies in the city.  
+I grew up mostly in Toronto, graduating from the University of Toronto studying Anthropology.  My most formative 2 years, 
+however, were spent in Chicago, where I completed my Masters Degree in the Social Sciences at the University of Chicago, 
+taught myself a wide range of tech skills, and worked for
+several organizations in the city.  
 
 Since returning to Toronto, I have continued to hone my technical sophistication while working in the tech education industry 
 and developing my own projects.  
 
 My goal is to reach the next level of my career by combining my research & writing skills with my 
 familiarity with digital technology.  With that in mind, I am currently seeking opportunities in Consulting, Software Development,
-User Experience Research, Copywriting, and much more.  If you think I would be a good fit at your
+User Experience Research, Copywriting, and more.  If you think I would be a good fit at your
 organization, please do not hesitate to reach out.  
 
 I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on
