@@ -52,7 +52,7 @@ nav {
 .show{
   font-weight: 700;
   font-size: 24px;
-  text-align: center;
+  //text-align: center;
 }
 
 .less-bottom{
@@ -78,8 +78,12 @@ nav {
 }
 
 .stickToRight {
-    float: right
+    float: right;
+    margin-top: -20px;
+
 }
+
+
 
 .icon{
   
@@ -99,6 +103,10 @@ nav {
   border-bottom: 1px solid black;
   text-align: center;
 
+}
+
+.return {
+  
 }
 
 // a:link {

@@ -4,6 +4,10 @@ permalink: /about/
 layout: default
 ---
 
+<div class="stickToRight">
+<small>↞ <a rel="home" href="/">Back to Homepage</a></small>
+</div>
+
 # About Me  
 
 <img style = "padding-right: 16px; padding-bottom: 3px; float: left" alt="Dylan's profile photo" align="left" src="../assets/me.jpg" width="35%">
@@ -28,9 +32,6 @@ organization, please do not hesitate to reach out.
 I recently started a blog called [This Wired World](https://thiswiredworld.wordpress.com/), where I write on
 the everyday intersections
  of technology and environmental change in the contemporary world.  I would love it if you had a look!  
-
-
-<button class = "my-button"> <strong><a href="/">Back to Home</a></strong>  </button>
 
 
 
