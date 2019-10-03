@@ -92,6 +92,13 @@ nav {
   
 }
 
+.about-img{
+  padding-right: 16px; 
+  padding-bottom: 3px; 
+  float: left;
+  //display: block;
+}
+
 .container-main{
   border: 1px solid black;
   background-color: rgb(230, 255, 240);
@@ -101,7 +108,9 @@ nav {
 
 }
 
-
+.about-text{
+  padding-right: 16px;
+}
 
 .container-port-head{
   border-top: 1px solid black;
@@ -219,7 +228,7 @@ iframe {
   color: #fff;
   font-weight: 700;
   font-size: 18px;
-  background: #95a5a6;
+  background: #323232;
   transform: translateY(100%);
   content: attr(data-text);
 }
