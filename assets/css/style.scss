@@ -84,7 +84,9 @@ nav {
 
 }
 
-
+.shift-right{
+  padding-left: 10px; 
+}
 
 .icon{
   
@@ -93,7 +95,7 @@ nav {
 .container-main{
   border: 1px solid black;
   background-color: rgb(230, 255, 240);
-  padding: 10px;
+  //padding: 10px;
   box-shadow: 10px 10px 5px #888888;
   width: 100%;
 
@@ -171,4 +173,59 @@ iframe {
 
 .move-up {
   margin-top: -40px;
+}
+  ///////// FROM HOVER TEXT GUIDE ON YOUTUBE (NO JS)
+
+.hover-animation{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  background-size: cover;
+  background-position: center;
+  //border: 1px solid #000;
+  position: relative;
+  overflow: hidden;
+  
+}
+
+.one{background-image:url(../portfolio-thumbnails/toggl.png);}
+.two{background-image:url(../portfolio-thumbnails/thiswiredworld.png);}
+.three{background-image:url(../portfolio-thumbnails/rp4k.jpg);}
+.four{background-image:url(../portfolio-thumbnails/hatch_resized.jpg);}
+.five{background-image:url(../portfolio-thumbnails/digitaladventures.png);}
+.six{background-image:url(../portfolio-thumbnails/ncsbn_resized.jpg);}
+.seven{background-image:url(../portfolio-thumbnails/uchicagosocialsciences.png);}
+
+
+
+.hover-animation:before,
+.hover-animation:after{
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  position: absolute;
+  background: inherit;
+  transition: 0.3s;  
+}
+
+.hover-animation::after{
+  padding: 20%;
+  display: flex; 
+  
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  background: #95a5a6;
+  transform: translateY(100%);
+  content: attr(data-text);
+}
+.hover-animation:hover:before{
+  transform: translateY(-50%);
+}
+.hover-animation:hover:after{
+  transform: translateY(0);
 }
